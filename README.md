@@ -1,7 +1,7 @@
 # Challenge-1
 
 
-![Horiseon](https://user-images.githubusercontent.com/18291317/89701776-1431df80-d908-11ea-9bbd-c2f5c348f281.png)
+![Horiseon](https://user-images.githubusercontent.com/18291317/89720914-6a089500-d9a5-11ea-824d-80542e2e3553.png)
 
 
 In the challenge-1, there is a screenshot of the finished product (The screenshot is also on the repository) this it would look diferent because of my screen size.
@@ -10,7 +10,7 @@ https://cacevedo2011.github.io/challenge-1
 
 Changes on the website:
 
-##                                            <!-- HTML -->
+## HTML
 
 On div _class="content"_, I changed the class to div _class="marketing-info"_
 
@@ -26,7 +26,7 @@ I added more empty lines to make it more readable for the other coder that uses 
 
 Added one more _id="search-engine-optimization"_ on the div.
 
-##                                             <!-- CSS -->
+## CSS
 
 There were redundant code through the CSS file, so I condence it by making classes with the same name on the HTML and then applying it to the CSS file making the other codes unusable and deleting it making the code more neat and easy to follow along.
 
