@@ -1,9 +1,12 @@
 #challenge-1
 
-In the challenge-1 repository, there is a screenshot of the finished product.
-it would look diferent because of my screen size.
 
-link: https://cacevedo2011.github.io/challenge-1-website/
+![Horiseon](https://user-images.githubusercontent.com/18291317/89701776-1431df80-d908-11ea-9bbd-c2f5c348f281.png)
+
+
+In the challenge-1, there is a screenshot of the finished product (The screenshot is also on the repository) this it would look diferent because of my screen size.
+
+link: https://github.com/cacevedo2011/challenge-1-website
 
 Changes on the website:
 
