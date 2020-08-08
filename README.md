@@ -7,11 +7,11 @@ Changes on the website:
 
                                             <!-- HTML -->
 
-On <div class="content">, I changed the class to <div class="marketing-info">
+On div class="content", I changed the class to div class="marketing-info"
 
 Added a strong, to all h2 and h3 elements in the html (except the footer) to make it important.
 
-On <div class="benefits">, I changed the classes that are inside the div to one class <div class="benefit-info"> 
+On div class="benefits", I changed the classes that are inside the div to one class div class="benefit-info" 
 
 Added alt to all the images with a description about what is happening in the images (except the icons from the benefits div, it didn't seemed important to add it)
 
