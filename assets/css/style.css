@@ -47,6 +47,7 @@ a {
 
 p {
     font-size: 16px;
+    line-height: 1.5;
 }
 
 .hero {
@@ -80,7 +81,7 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 1050px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
     background-color: #2589bd;
 }
@@ -97,7 +98,7 @@ p {
 
 .benefit-info img {
     display: block;
-    margin: 10px auto;
+    margin: 20px auto;
     max-width: 150px;
 }
 
