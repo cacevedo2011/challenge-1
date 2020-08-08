@@ -6,7 +6,7 @@
 
 In the challenge-1, there is a screenshot of the finished product (The screenshot is also on the repository) this it would look diferent because of my screen size.
 
-link: https://github.com/cacevedo2011/challenge-1-website
+link: https://cacevedo2011/challenge-1
 
 Changes on the website:
 
