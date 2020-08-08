@@ -35,3 +35,5 @@ Change the images classes names _benefit-lead_, _benefit-brand_, _._benefit-cost
 On _.header div_ I deleted the font-family since it is already stated on _.header_
 
 On ".header", ".benefits", and ".footer", I added the " '' " to 'Arial' and 'sans-serif'
+
+On the _.p{... }_, I added _line-height=1.4;_ to space he lines better.
